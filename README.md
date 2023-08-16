@@ -1,4 +1,4 @@
-# FY_portfolio
+# Fatin Yasin Portfolio
 My Data Science portfolio
 
 
