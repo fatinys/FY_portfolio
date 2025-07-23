@@ -1,5 +1,4 @@
-# Fatin Yasin Portfolio
-Here is a collection of my data science projects, click on the titles to be directed to the appropriate repositories.
+# My Portfolio - Fatin Yasin
 
 # [Wind Turbine Rated Capacity Predictor](https://github.com/fatinys/windturbine-optimization)
 Create a model to predict the energy capacity for a turbine given its location.
