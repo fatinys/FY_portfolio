@@ -1,7 +1,7 @@
 # My Portfolio - Fatin Yasin
 
 # [Wind Turbine Rated Capacity Predictor](https://github.com/fatinys/windturbine-optimization)
-Create a model to predict the energy capacity for a turbine given its location.
+Created a model to predict the energy capacity for a turbine given its location.
 Provide optimal zones in Texas that show potential for efficient wind farm projects.
 
 ![alt text](Images/app.png)
