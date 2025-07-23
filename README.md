@@ -7,8 +7,7 @@ Provide optimal zones in Texas that show potential for efficient wind farm proje
 ![alt text](Images/app.png)
 
 # [Predictive Maintenance Classifier Project](https://github.com/fatinys/Predictive-Mainenance)
-In this project I trained and finetuned a various amount of models to predict parameters for which a milling machine was a risk for machine failure. 
-
+Balanced highly imbalanced dataset with SMOTE to achieve an accuracy of 96% on machine risk classification with Random Forest
 ![alt text](Images/modelaccuracy.png)
 
 
@@ -18,3 +17,4 @@ GOAL: Create an end to end pipeline to forecast ERCOT Electricity demand (hourly
 
 
 # [Clustering - Drowsiness Detection](https://github.com/fatinys/FY_portfolio/blob/c2abbfc91f4c903e216db5b26acabacb0e244988/Final%20Project_%20GMM.pdf)
+Applied Gaussian Mixture Models (GMM) to classify EEG signals for drowsiness detection; optimized hyperparameters to achieve 11% improvement over baseline
