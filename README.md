@@ -11,3 +11,10 @@ Provide optimal zones in Texas that show potential for efficient wind farm proje
 In this project I trained and finetuned a various amount of models to predict parameters for which a milling machine was a risk for machine failure. 
 
 ![alt text](Images/modelaccuracy.png)
+
+
+# [GRIDWISE](https://github.com/fatinys/gridwise)
+GOAL: Create an end to end pipeline to forecast ERCOT Electricity demand (hourly/day ahead) using historical load and weather data.
+
+
+
